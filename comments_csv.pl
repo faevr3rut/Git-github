@@ -7,7 +7,8 @@ use DBI;
 use Text::CSV;
 use Data::Dumper;
 my @PrArray;
-
+#--------------------History-------------
+#Rutuja Toradmal  26-11-2018 Script for retriving the comments data as per CP number.
 open(my $handler, "<", "D:/Code_to_connect/2015_final_cp.txt") or die "failed to open file : $!\n"; 
 while(<$handler>)
 {
