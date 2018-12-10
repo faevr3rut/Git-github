@@ -1,2 +1,7 @@
 welcome 1..
+<<<<<<< HEAD
 welcome 2...
+=======
+welcome 3... first branch
+welcome 4...first branch 2nd commit
+>>>>>>> rututja_first_branch
